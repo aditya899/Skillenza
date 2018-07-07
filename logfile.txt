@@ -1,0 +1,7 @@
+http://localhost:8080
+http://localhost:8080/
+http://localhost:8080/ping?i=1
+http://localhost:8080/ping?i=3#anchor
+http://localhost:8080/ping
+http://localhost:8080/path/to/destination
+http://localhost:8080/PATH/TO/DESTINATION
